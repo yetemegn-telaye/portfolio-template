@@ -443,8 +443,10 @@ button:focus {
 }
 
 .mu-profile-img {
-  width: 250px;
+  width: 220px;
   height: 250px;
+  border-right: 20px solid rgb(245, 250, 249);
+  border-top: 20px solid rgb(245, 250, 249);
 }
 
 .contact-img{
