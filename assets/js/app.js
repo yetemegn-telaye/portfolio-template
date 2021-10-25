@@ -1,7 +1,7 @@
 
 function DownloadFile(fileName) {
 	//Set the File URL.
-	var url = "Files/" + fileName;
+	var url = "./assets/" + fileName;
 
 	//Create XMLHTTP Request.
 	var req = new XMLHttpRequest();
