@@ -82,7 +82,7 @@
 			});
 
 			$('.mu-jquery-bar').LineProgressbar({
-				percentage: 55,
+				percentage: 60,
 				triggerOnce: true
 			});
 
